@@ -1,0 +1,22 @@
+.page-content-container {
+	margin-top: 75px;
+}
+
+.beyaz{
+	color: #fff;
+}
+
+.page-banner {
+	height:450px; 
+	background-image:url('../img/banner_2.jpg'); 
+	background-position:center center; 
+	background-size: cover;
+	color:#ffffff;
+}
+
+.footer {
+	background-color: #282828;
+	height:160px;
+	color:#767F7F;
+	padding-top:40px;
+}
