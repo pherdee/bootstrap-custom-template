@@ -3982,9 +3982,9 @@ a.badge:focus {
   color: inherit;
 }
 .alert-success {
-  background-color: #ddffdd;
+  background-color: #51AF5B;
   border-color: #cdffc3;
-  color: #337733;
+  color: #ffffff;
 }
 .alert-success hr {
   border-top-color: #b8ffaa;
@@ -3993,9 +3993,9 @@ a.badge:focus {
   color: #245324;
 }
 .alert-info {
-  background-color: #ddeeff;
+  background-color: #3E92A3;
   border-color: #b9e8ff;
-  color: #337788;
+  color: #ffffff;
 }
 .alert-info hr {
   border-top-color: #a0dfff;
@@ -4004,9 +4004,9 @@ a.badge:focus {
   color: #255763;
 }
 .alert-warning {
-  background-color: #ffffee;
+  background-color: #F8AA27;
   border-color: #fff8d5;
-  color: #886633;
+  color: #ffffff;
 }
 .alert-warning hr {
   border-top-color: #fff4bb;
@@ -4015,9 +4015,9 @@ a.badge:focus {
   color: #634a25;
 }
 .alert-danger {
-  background-color: #ffdddd;
+  background-color: #CC435F;
   border-color: #ffc3cd;
-  color: #aa4444;
+  color: #ffffff;
 }
 .alert-danger hr {
   border-top-color: #ffaab8;
